@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/EricTilton/static/css/main.a1937b67.css",
-    "main.js": "/EricTilton/static/js/main.057b08dd.js",
+    "main.css": "/EricTilton/static/css/main.64c89b77.css",
+    "main.js": "/EricTilton/static/js/main.0e97261a.js",
     "static/js/787.768c7f23.chunk.js": "/EricTilton/static/js/787.768c7f23.chunk.js",
     "static/media/helvetica-neu.ttf": "/EricTilton/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/EricTilton/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
@@ -11,12 +11,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/EricTilton/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/EricTilton/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/EricTilton/index.html",
-    "main.a1937b67.css.map": "/EricTilton/static/css/main.a1937b67.css.map",
-    "main.057b08dd.js.map": "/EricTilton/static/js/main.057b08dd.js.map",
+    "main.64c89b77.css.map": "/EricTilton/static/css/main.64c89b77.css.map",
+    "main.0e97261a.js.map": "/EricTilton/static/js/main.0e97261a.js.map",
     "787.768c7f23.chunk.js.map": "/EricTilton/static/js/787.768c7f23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1937b67.css",
-    "static/js/main.057b08dd.js"
+    "static/css/main.64c89b77.css",
+    "static/js/main.0e97261a.js"
   ]
 }
