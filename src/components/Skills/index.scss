@@ -1,0 +1,136 @@
+
+
+.container.skills-page {
+
+a {
+  color: #00e1ff
+  }
+
+
+body{
+    margin-top: 3px;
+    padding: 1px;
+    box-sizing: border-box;
+   
+  }
+  h1 {
+    //text-align: left;
+    //margin-bottom: 200px;
+  }
+
+  p {
+    //margin-bottom: 200px;
+  }
+
+  .text-zone{
+    margin-bottom: 400px;
+  }
+
+
+  .main {
+    justify-content: center;
+  }
+
+
+  .tagcloud {
+    position: absolute;
+    top: 100px;
+    right: auto;
+    bottom: 6000px;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;  
+    font-size: 15px;
+    font-weight: 650;
+    margin-left: 50%;
+    mask-repeat: no-repeat;
+    
+  }
+  .tagcloud--item:hover {
+    color: #00e1ff 
+    
+  }
+
+  
+
+ 
+}
+
+  @media screen and (max-width: 1200px)  {
+
+    .cloudContainer{
+      position: relative;
+      transform: scale(0.5) translate(-100%, -100%);
+      top: 800px;
+      right: 25px;
+      
+    }
+
+    .tagCloud {
+    position: relative;
+    top: auto;
+    bottom: 500px;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;  
+    font-size: 15px;
+    font-weight: 650;
+    margin-right:  200%;
+    mask-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    transform: scale(0.5) translate(-100%, -100%);
+   
+
+    }
+
+    h1 {
+      font-size: 53px;
+      font-family: 'Coolvetica';
+      color: #00e1ff;
+      font-weight: 400;
+      margin-top: 0;
+      position: relative;
+      margin-bottom: 40px;
+      left: -10px;
+
+      &:before {
+        content: '<h1>';
+        font-family: 'La Belle Aurore', cursive;
+        color: #00e1ff;
+        font-size: 18px;
+        position: absolute;
+        margin-top: -10px;
+        left: -10px;
+        opacity: 0.6;
+        line-height: 18px;
+      }
+
+      &:after {
+        content: '<h1/>';
+        font-family: 'La Belle Aurore', cursive;
+        color: #00e1ff;
+        font-size: 18px;
+        line-height: 18px;
+        position: absolute;
+        left: -30px;
+        bottom: -20px;
+        margin-left: 20px;
+        opacity: 0.6;
+      }
+    }
+
+    .container.skills-page {
+      
+      
+    }
+
+    .content{
+      position: center;
+      float: center;
+     
+      
+    }  
+
+    
+
+    
+  }
