@@ -37,13 +37,11 @@ const About = () => {
             coding to be a perfect fit for me in that regard. I will always try my best to give you support even after a projects completion. I want anyone I'm working for to be completely with the final product.
           </p>
           <p float="right">
-            I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            I'm quiet confident, naturally curious, and constantly working on
+            improving my skills one problem at a time.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+            In my off time I'm typically at the gym, playing guitar, or catching up on the latest tech!  
           </p>
         </div>
 
