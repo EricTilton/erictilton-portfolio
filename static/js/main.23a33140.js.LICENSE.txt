@@ -11,6 +11,16 @@ object-assign
 */
 
 /*!
+ * GSAP 3.11.3
+ * https://greensock.com
+ *
+ * @license Copyright 2008-2022, GreenSock. All rights reserved.
+ * Subject to the terms at https://greensock.com/standard-license or for
+ * Club GreenSock members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/*!
  * TagCloud.js v2.2.0
  * Copyright (c) 2016-2021 @ Cong Min
  * MIT License - https://github.com/mcc108/TagCloud
