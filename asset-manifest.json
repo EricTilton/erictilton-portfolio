@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/EricTilton/static/css/main.9b03630f.css",
+    "main.css": "/EricTilton/static/css/main.38cb98e5.css",
     "main.js": "/EricTilton/static/js/main.b3188c8a.js",
     "static/js/787.768c7f23.chunk.js": "/EricTilton/static/js/787.768c7f23.chunk.js",
     "static/media/helvetica-neu.ttf": "/EricTilton/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -10,12 +10,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/EricTilton/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/EricTilton/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/EricTilton/index.html",
-    "main.9b03630f.css.map": "/EricTilton/static/css/main.9b03630f.css.map",
+    "main.38cb98e5.css.map": "/EricTilton/static/css/main.38cb98e5.css.map",
     "main.b3188c8a.js.map": "/EricTilton/static/js/main.b3188c8a.js.map",
     "787.768c7f23.chunk.js.map": "/EricTilton/static/js/787.768c7f23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b03630f.css",
+    "static/css/main.38cb98e5.css",
     "static/js/main.b3188c8a.js"
   ]
 }
