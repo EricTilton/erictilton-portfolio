@@ -1,8 +1,14 @@
 {
   "files": {
-    "main.css": "/EricTilton/static/css/main.b88ddd96.css",
-    "main.js": "/EricTilton/static/js/main.cc9732fc.js",
+    "main.css": "/EricTilton/static/css/main.e12b68a4.css",
+    "main.js": "/EricTilton/static/js/main.4d0d08bd.js",
     "static/js/787.768c7f23.chunk.js": "/EricTilton/static/js/787.768c7f23.chunk.js",
+    "static/media/LuxeBistroKC.PNG": "/EricTilton/static/media/LuxeBistroKC.32777a457cb367d534bf.PNG",
+    "static/media/Invictus.PNG": "/EricTilton/static/media/Invictus.59fa21fb77396b524a7c.PNG",
+    "static/media/Protoghost.PNG": "/EricTilton/static/media/Protoghost.e68bee56a6eefd601354.PNG",
+    "static/media/HomeProRenovations.PNG": "/EricTilton/static/media/HomeProRenovations.421b83f4f2a0167115fe.PNG",
+    "static/media/WhiteOak.PNG": "/EricTilton/static/media/WhiteOak.7922f89b526057b77d33.PNG",
+    "static/media/TW.PNG": "/EricTilton/static/media/TW.5635d189374ecdaca095.PNG",
     "static/media/helvetica-neu.ttf": "/EricTilton/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/EricTilton/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
     "static/media/logo_sub.png": "/EricTilton/static/media/logo_sub.19f3ab25ab15fd848b30.png",
@@ -10,12 +16,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/EricTilton/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/EricTilton/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/EricTilton/index.html",
-    "main.b88ddd96.css.map": "/EricTilton/static/css/main.b88ddd96.css.map",
-    "main.cc9732fc.js.map": "/EricTilton/static/js/main.cc9732fc.js.map",
+    "main.e12b68a4.css.map": "/EricTilton/static/css/main.e12b68a4.css.map",
+    "main.4d0d08bd.js.map": "/EricTilton/static/js/main.4d0d08bd.js.map",
     "787.768c7f23.chunk.js.map": "/EricTilton/static/js/787.768c7f23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b88ddd96.css",
-    "static/js/main.cc9732fc.js"
+    "static/css/main.e12b68a4.css",
+    "static/js/main.4d0d08bd.js"
   ]
 }
