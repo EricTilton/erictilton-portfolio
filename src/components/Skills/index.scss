@@ -1,6 +1,9 @@
 
 
 .container.skills-page {
+  width: 100%;
+  display: block;
+  
 
 a {
   color: #00e1ff
@@ -13,38 +16,31 @@ body{
     box-sizing: border-box;
    
   }
-  h1 {
-    //text-align: left;
-    //margin-bottom: 200px;
-  }
-
-  p {
-    //margin-bottom: 200px;
-  }
-
+  
   .text-zone{
     margin-bottom: 400px;
   }
 
 
-  .main {
-    justify-content: center;
+  .tagCloud{
+    margin-top: 100px;
   }
 
 
   .tagcloud {
-    position: absolute;
-    top: 100px;
-    right: auto;
-    bottom: 6000px;
-    color: #fff;
-    font-family: 'Poppins', sans-serif;  
-    font-size: 15px;
-    font-weight: 650;
-    margin-left: 50%;
-    mask-repeat: no-repeat;
+    display: inline-block;
+    top: 0;
+    left: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.0625em;
+    font-size: 1.3em;
+    color: #FFFFFF;
+    margin-left: 500px;
+    margin-bottom: 100px;
     
   }
+
   .tagcloud--item:hover {
     color: #00e1ff 
     
@@ -57,30 +53,78 @@ body{
 
   @media screen and (max-width: 1200px)  {
 
+   
+    .container.skills-page {
+      // width: 100%;
+      display: block;
+
+
+    a {
+      color: #00e1ff
+      }
+    
+    
+    body{
+        margin-top: 3px;
+        padding: 1px;
+        box-sizing: border-box;
+       
+      }
+      
+      .text-zone{
+        margin-bottom: 400px;
+        display: block;
+      }
+
+   
+
     .cloudContainer{
-      position: relative;
+      // position: relative;
       transform: scale(0.5) translate(-100%, -100%);
-      top: 800px;
-      right: 25px;
+      width: 100%;
+      float: none;
+      
+      // top: 800px;
+      // right: 45px;
+      //  width: 10px;
+    // height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    // max-width: 50rem;
+    // margin-bottom: 2000px;
       
     }
 
     .tagCloud {
-    position: relative;
+    position: absolute;
     top: auto;
-    bottom: 500px;
+    display: inline-block;
+    // bottom: 500px;
     color: #fff;
     font-family: 'Poppins', sans-serif;  
     font-size: 15px;
     font-weight: 650;
-    margin-right:  200%;
+     margin-right:  55px;
     mask-repeat: no-repeat;
     width: 100%;
     height: 100%;
+    
+    // margin-bottom: 500px;
+    // margin-right: 500px;
     transform: scale(0.5) translate(-100%, -100%);
-   
-
+  
     }
+
+    .tagcloud {
+     
+      margin-bottom: 450px;
+      margin-right: 125px;
+      display: inline-block;
+    
+      }
+
+
 
     h1 {
       font-size: 53px;
@@ -118,19 +162,16 @@ body{
       }
     }
 
-    .container.skills-page {
-      
-      
-    }
-
-    .content{
-      position: center;
-      float: center;
-     
-      
-    }  
-
     
 
+    // .content{
+    //   position: center;
+    //   float: center;
+    //   display: block;
+      
+    // }  
+
+    
+  }
     
   }

@@ -1,17 +1,23 @@
-
 import React, { useEffect, useState } from 'react'
 import TagCloud from 'TagCloud';
 import AnimatedLetters from '../AnimatedLetters';
 import './index.scss'
 import Loader from 'react-loaders';
-import TagsCanvas from 'react-tags-canvas'
 
-const container = '.tagCloud';
+
+
+
+const Skills = () => {
+
+  useEffect(() => {
+    return () => {
+
+const container = '.tagcloud';
 const texts = [
   'React.js', 'Python', 'JavaScript',
   'CSS3', 'Java', 'Jquery',
   'HTML5', 'C#', 'Ajax', 'ASP.NET',
-  'SQL Server 2019', 'Visual Studio 2019',
+  'SQL Server 2019', 'WordPress',
   'Team Foundation Server (GIT)',
   'Google Maps API', 'SendGrid', 'Telerik UI', 'Blazor', 'Android Studio'
 ];
@@ -25,22 +31,14 @@ const options = {
   // 0 = top
   // 90 = left
   // 135 = right-bottom
-  direction: 135,
+  // direction: 135,
   // interact with cursor move on mouse out
   keep: true
 };
 
-const Skills = () => {
-
-   useEffect(() => {
-     TagCloud(container, texts, options);
-   })
-
-   useEffect(() => {
-     setTimeout(() => {
-     return TagCloud(container, texts, options)
-    }, 4000)
-  }, [])
+TagCloud(container, texts, options);
+};
+}, []);
 
   
   const [letterClass, setLetterClass] = useState('text-animate')
@@ -80,19 +78,15 @@ const Skills = () => {
       
          <div  className='cloudContainer'> 
 
-        <span  className="tagCloud"/>
+        <span  className="tagcloud"/>
        
         </div> 
 
-        <div className='black'> 
-        
        
-        </div> 
 
         <Loader type="ball-grid-pulse" />
     </div>
   )
 }
-
 
 export default Skills

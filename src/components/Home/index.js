@@ -11,15 +11,15 @@ import Loader from 'react-loaders'
 const Home = () => {
 
     const [letterClass, setLetterClass] = useState('text-animate')
-    const nameArray = [' ', 'E', 'r', 'i', 'c', ' ', 'T', 'i', 'l', 't', 'o', 'n']
-    const jobArray=['w','e', 'b', ' ','d','e','v','e','l','o','p','e','r','.']
+    const nameArray = [' ','E', 'r', 'i', 'c',' ', 'T', 'i', 'l', 't', 'o','n']
+    const jobArray=['w','e','b',' ','d','e','v','e','l','o','p','e','r','.']
 
 
 
   useEffect(() => {
            setTimeout (() => {
            return setLetterClass('text-animate-hover')
-          }, 4000)
+          }, 5000)
    }, [])
 
 return (
