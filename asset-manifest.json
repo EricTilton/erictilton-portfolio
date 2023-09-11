@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/EricTilton/static/css/main.654bc210.css",
-    "main.js": "/EricTilton/static/js/main.9878db31.js",
+    "main.css": "/EricTilton/static/css/main.cf3be56c.css",
+    "main.js": "/EricTilton/static/js/main.0bf0290a.js",
     "static/js/787.768c7f23.chunk.js": "/EricTilton/static/js/787.768c7f23.chunk.js",
-    "static/media/LuxeBistroKC.PNG": "/EricTilton/static/media/LuxeBistroKC.32777a457cb367d534bf.PNG",
-    "static/media/Invictus.PNG": "/EricTilton/static/media/Invictus.59fa21fb77396b524a7c.PNG",
-    "static/media/Protoghost.PNG": "/EricTilton/static/media/Protoghost.e68bee56a6eefd601354.PNG",
-    "static/media/HomeProRenovations.PNG": "/EricTilton/static/media/HomeProRenovations.421b83f4f2a0167115fe.PNG",
-    "static/media/WhiteOak.PNG": "/EricTilton/static/media/WhiteOak.7922f89b526057b77d33.PNG",
-    "static/media/TW.PNG": "/EricTilton/static/media/TW.5635d189374ecdaca095.PNG",
+    "static/media/Protoghost.webp": "/EricTilton/static/media/Protoghost.40561c266f2cced8fa66.webp",
+    "static/media/LuxeBistroKC.webp": "/EricTilton/static/media/LuxeBistroKC.728b9bad0a92b2667803.webp",
+    "static/media/Invictus.webp": "/EricTilton/static/media/Invictus.df1517ab4cb60815764c.webp",
+    "static/media/WhiteOak.webp": "/EricTilton/static/media/WhiteOak.5b5dfd000c5ebee5d429.webp",
+    "static/media/HomeProRenovations.webp": "/EricTilton/static/media/HomeProRenovations.1f193bacbabd3724d7f4.webp",
+    "static/media/TW.webp": "/EricTilton/static/media/TW.67e7171d1f9bd64ba28d.webp",
     "static/media/helvetica-neu.ttf": "/EricTilton/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/EricTilton/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
     "static/media/logo_sub.png": "/EricTilton/static/media/logo_sub.19f3ab25ab15fd848b30.png",
@@ -16,12 +16,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/EricTilton/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/EricTilton/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/EricTilton/index.html",
-    "main.654bc210.css.map": "/EricTilton/static/css/main.654bc210.css.map",
-    "main.9878db31.js.map": "/EricTilton/static/js/main.9878db31.js.map",
+    "main.cf3be56c.css.map": "/EricTilton/static/css/main.cf3be56c.css.map",
+    "main.0bf0290a.js.map": "/EricTilton/static/js/main.0bf0290a.js.map",
     "787.768c7f23.chunk.js.map": "/EricTilton/static/js/787.768c7f23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.654bc210.css",
-    "static/js/main.9878db31.js"
+    "static/css/main.cf3be56c.css",
+    "static/js/main.0bf0290a.js"
   ]
 }
