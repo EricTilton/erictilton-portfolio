@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/EricTilton/static/css/main.cf3be56c.css",
-    "main.js": "/EricTilton/static/js/main.0bf0290a.js",
+    "main.css": "/EricTilton/static/css/main.461560bb.css",
+    "main.js": "/EricTilton/static/js/main.a5dad149.js",
     "static/js/787.768c7f23.chunk.js": "/EricTilton/static/js/787.768c7f23.chunk.js",
-    "static/media/Protoghost.webp": "/EricTilton/static/media/Protoghost.40561c266f2cced8fa66.webp",
     "static/media/LuxeBistroKC.webp": "/EricTilton/static/media/LuxeBistroKC.728b9bad0a92b2667803.webp",
+    "static/media/TinyTotsSpot.webp": "/EricTilton/static/media/TinyTotsSpot.efec039fdaa72217f943.webp",
     "static/media/Invictus.webp": "/EricTilton/static/media/Invictus.df1517ab4cb60815764c.webp",
     "static/media/WhiteOak.webp": "/EricTilton/static/media/WhiteOak.5b5dfd000c5ebee5d429.webp",
     "static/media/HomeProRenovations.webp": "/EricTilton/static/media/HomeProRenovations.1f193bacbabd3724d7f4.webp",
@@ -16,12 +16,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/EricTilton/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/EricTilton/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/EricTilton/index.html",
-    "main.cf3be56c.css.map": "/EricTilton/static/css/main.cf3be56c.css.map",
-    "main.0bf0290a.js.map": "/EricTilton/static/js/main.0bf0290a.js.map",
+    "main.461560bb.css.map": "/EricTilton/static/css/main.461560bb.css.map",
+    "main.a5dad149.js.map": "/EricTilton/static/js/main.a5dad149.js.map",
     "787.768c7f23.chunk.js.map": "/EricTilton/static/js/787.768c7f23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf3be56c.css",
-    "static/js/main.0bf0290a.js"
+    "static/css/main.461560bb.css",
+    "static/js/main.a5dad149.js"
   ]
 }
